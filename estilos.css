@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    background-color: rgb(245, 245, 245);
+}
+
+.portada{
+    text-align: center;
+    background-color: rgb(242, 145, 255);
+}
+ 
+.image-profile{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 200px;
+    
+}
+
+.datos{
+    background-color: rgb(255, 170, 255);
+    color: white;
+    text-align: center;
+    height: 145px;
+}
+
+.michelle{
+    font-family: "Pacifico";
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 15px;
+    font-size: 45px;
+}
+
+.puesto{
+    font-family: "Raleway";
+    font: 100px;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 20px;
+    padding-top: 5px;
+    font-size: large;
+    
+}
+
+.profile-description{
+    width: 700px;
+    background-color: rgb(233, 233, 233);
+    margin: auto;
+    text-align: center;
+    margin-top: 0;
+    height: 270px;
+    font-family:"Raleway";
+}
+
+.profile-description h2{
+    color: rgb(110, 110, 110);
+    margin: 0;
+    padding-top: 30px
+}
+
+.profile-description p{
+    color: rgb(110, 110, 110);
+    margin: 0;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 22pt;
+}
+
+.redes{
+    width: 700px;
+    background-color: rgb(212, 212, 212);
+    margin: auto;
+    text-align: center;
+    margin-top: 0;
+    height: 150px;
+    font-family:"Raleway";
+}
+
+.redes h2{
+    color: rgb(110, 110, 110);
+    margin: 0;
+    padding-top: 30px
+}
+
+.bloque-instagram{
+    background-color: white;
+    display: inline;
+    height: 30px;
+    width: 100px;
+    float: left;
+    width: 350px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.bloque-github{
+    background-color: white;
+    display: inline;
+    height: 30px;
+    width: 100px;
+    float: left;
+    width: 350px;
+    padding-top: 15px;
+    padding-bottom: 12px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.bloque-github img{
+    height: 30px;
+    float: left;
+    padding-left: 130px;
+}
+
+.bloque-github a{
+    text-decoration: none;
+    float: left;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.bloque-instagram img{
+    height: 30px;
+    float: left;
+    padding-left: 120px;
+    
+}
+
+.bloque-instagram a{
+    text-decoration: none;
+    float: left;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.habilidades{
+    width: 700px;
+    background-color: rgb(233, 233, 233);
+    margin: auto;
+    margin-top: 0;
+    height: 250px;
+    font-family:"Raleway";
+}
+
+.habilidades ul{
+    margin-top: 0;
+    color: rgb(110, 110, 110);
+    padding-top: 20px;
+    padding-left: 42%;
+    line-height: 22pt;
+}
+
+.habilidades h2{
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    color: rgb(110, 110, 110);
+    padding-top: 30px
+   }
